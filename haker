@@ -1,0 +1,67 @@
+haker
+white box
+black box 
+grey box
+
+
+read team (offencive team)
+blue team (defensive team)
+  
+    
+osint - разведка на основе открытых источников
+
+
+hack value - цена взлома через точку входа
+hack risk - риск быть обнаруженым
+hack reliability - насколько долго просуществует взлом
+
+1...10
+
+
+сайт geekbrains
+hack value - 10
+hack risk - 6
+hack reliability - 7
+
+проникновение в здание
+hack value - 5
+hack risk - 10
+hack reliability - 4
+
+сотрудники
+hack value - 7
+hack risk - 4
+hack reliability - 4
+
+  
+ленинградский проспект, 39 ст80
+камеры(аналог), шлакбаум(came), охрана, соседние здание близко, стеклянные окна оффиса майл ру, низкий забор, подземный паркинг,
+мусорные баки
+
+2015-09-02 01:54:19
+84:78:AC:8C:A4:A0 
+MR_Corp
+<empty>
+
+2015-09-02 01:54:50
+84:78:AC:8C:9A:B0
+MR_Guest
+GuestMail
+
+2015-09-02 01:54:20
+84:78:AC:8C:9E:90
+MR_Guest
+<empty>
+
+
+сотрудники
+александр пряхин
+
+
+сбор информации
+whatcms
+datasploit
+foca
+theharvester
+belati
+maltego kali
